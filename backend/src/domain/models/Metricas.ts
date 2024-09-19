@@ -49,7 +49,7 @@ Metricas.init(
   {
     sequelize,
     modelName: 'Metricas',
-    tableName: 'Metricas',
+    tableName: 'METRICAS',
     timestamps: false,
   }
 )
